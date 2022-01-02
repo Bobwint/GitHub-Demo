@@ -8,9 +8,12 @@
 import SwiftUI
 
 struct ContentView: View {
+    
+// Added tester variable
+    let tester = false
+    
     var body: some View {
-        Text("Hello, world!")
-            .padding()
+        Text("Goodbye, world!")     // changed "Hello" to "Goodbye"
     }
 }
 
