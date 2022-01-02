@@ -11,7 +11,6 @@
 		9141655927822FCB00218355 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9141655827822FCB00218355 /* MainView.swift */; };
 		9141655B27822FD200218355 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9141655A27822FD200218355 /* Assets.xcassets */; };
 		9141655E27822FD200218355 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9141655D27822FD200218355 /* Preview Assets.xcassets */; };
-		91416565278231B700218355 /* NewAdd.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91416564278231B700218355 /* NewAdd.swift */; };
 		91416567278235CC00218355 /* NewPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91416566278235CC00218355 /* NewPage.swift */; };
 /* End PBXBuildFile section */
 
@@ -21,7 +20,6 @@
 		9141655827822FCB00218355 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
 		9141655A27822FD200218355 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9141655D27822FD200218355 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		91416564278231B700218355 /* NewAdd.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewAdd.swift; sourceTree = "<group>"; };
 		91416566278235CC00218355 /* NewPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewPage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -57,7 +55,6 @@
 			children = (
 				9141655627822FCB00218355 /* GitHub_DemoApp.swift */,
 				9141655827822FCB00218355 /* MainView.swift */,
-				91416564278231B700218355 /* NewAdd.swift */,
 				91416566278235CC00218355 /* NewPage.swift */,
 				9141655A27822FD200218355 /* Assets.xcassets */,
 				9141655C27822FD200218355 /* Preview Content */,
