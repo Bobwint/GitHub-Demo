@@ -14,7 +14,7 @@ struct MainView: View {
     
     var body: some View {
         ZStack {
-            Color.green
+            Color.blue
             Text("Goodbye, world!")
         }     // changed "Hello" to "Goodbye"
     }
