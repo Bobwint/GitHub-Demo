@@ -13,7 +13,10 @@ struct MainView: View {
     let tester = false
     
     var body: some View {
-        Text("Goodbye, world!")     // changed "Hello" to "Goodbye"
+        ZStack {
+            Color.green
+            Text("Goodbye, world!")
+        }     // changed "Hello" to "Goodbye"
     }
 }
 
